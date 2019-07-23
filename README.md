@@ -7,7 +7,7 @@
 
 爬取结果部分信息预览：
 
-<img src='https://github.com/Carb-X/music163HotComment/blob/master/images/Capture_0.JPG?raw=true' width="500" height="650" />
+<img src='https://github.com/Carb-X/music163HotComment/blob/master/images/Capture_0.JPG?raw=true' width="500" height="600" />
 
 ![](https://github.com/Carb-X/music163HotComment/blob/master/images/Capture_1.JPG?raw=true)
 
