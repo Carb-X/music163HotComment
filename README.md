@@ -6,7 +6,9 @@
 - comment: 热评列表
 
 爬取结果部分信息预览：
-![](https://github.com/Carb-X/music163HotComment/blob/master/images/Capture_0.JPG?raw=true)
+
+<img src='https://github.com/Carb-X/music163HotComment/blob/master/images/Capture_0.JPG?raw=true' width="500" height="650" />
+
 ![](https://github.com/Carb-X/music163HotComment/blob/master/images/Capture_1.JPG?raw=true)
 
 ---
